@@ -1,0 +1,16 @@
+a,d
+
+b+a=>c
+b+e=>f
+a+c+f=>k
+c+e=>g
+d=>b
+k+h+d=>g
+c=>f
+d=>c
+a+d+b=>c
+b+d=>g
+
+g
+
+
